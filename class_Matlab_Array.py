@@ -27,7 +27,3 @@ class MatlabArray(object):
 arr = MatlabArray(np.array([[1,2],[3,4]]))
 arr[4,5] = 88
 print(arr[:])
-
-
-
-
