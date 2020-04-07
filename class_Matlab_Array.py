@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  7 09:20:55 2020
 
-@author: ZhanLF
-"""
 import numpy as np
 
 class MatlabArray(object):
